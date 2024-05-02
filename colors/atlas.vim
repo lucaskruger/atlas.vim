@@ -238,7 +238,7 @@ hi yamlFlowStringDelimiter guifg=#c0c0c0 ctermfg=255 guibg=NONE ctermbg=NONE gui
 hi yamlKeyValueDelimiter guifg=#c0c0c0 ctermfg=203 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 
 let g:terminal_color_foreground = "#212121"
-let g:terminal_color_background = "#c0c0c0"
+let g:terminal_color_background = "#000000"
 let g:terminal_color_0 = "#212121"
 let g:terminal_color_1 = "#c0c0c0"
 let g:terminal_color_2 = "#c0c0c0"
